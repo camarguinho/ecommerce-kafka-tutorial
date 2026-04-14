@@ -1,0 +1,1 @@
+-- Payment records are produced by Kafka flow during tutorial runs.

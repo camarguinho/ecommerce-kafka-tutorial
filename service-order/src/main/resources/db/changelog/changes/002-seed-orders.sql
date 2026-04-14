@@ -1,0 +1,2 @@
+-- Initial data for order service is intentionally empty.
+-- Orders are created through the REST API during tutorial execution.

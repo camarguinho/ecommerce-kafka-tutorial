@@ -1,0 +1,1 @@
+-- Shipping records are created after payment events.

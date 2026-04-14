@@ -1,0 +1,8 @@
+databaseChangeLog:
+  - changeSet:
+      id: 002-seed-orders
+      author: copilot
+      changes:
+        - sqlFile:
+            path: db/changelog/changes/002-seed-orders.sql
+            relativeToChangelogFile: false
