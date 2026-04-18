@@ -15,3 +15,7 @@ Objetivo: preparar o backend para ambiente conteinerizado em Kubernetes sem alte
 - adicionar Schema Registry;
 - adotar Outbox Pattern completo;
 - usar OpenTelemetry para tracing distribuido.
+
+[Voltar para o Sumário](SUMMARY.md)
+
+[Anterior: Anti-Padrões com Kafka](09-anti-padroes-kafka.md)

@@ -20,3 +20,8 @@
 ## Observacao
 
 Esta stack usa Kafka em modo KRaft (sem ZooKeeper), simplificando ambiente local e reduzindo componentes para estudo.
+
+[Voltar para o Sumário](SUMMARY.md)
+
+[Anterior: Testes](05-testes.md)
+[Próximo: Solução de Problemas (Troubleshooting)](07-troubleshooting.md)

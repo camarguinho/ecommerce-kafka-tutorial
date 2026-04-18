@@ -16,3 +16,6 @@ O Payment Service aplica:
 ## Resultado esperado
 
 Mesmo com falha externa, o sistema responde com degradacao controlada e registra o motivo da falha no fluxo de eventos.
+
+[Anterior: Banco de Dados com Liquibase e H2](03-banco-liquibase-h2.md)
+[Próximo: Testes](05-testes.md)

@@ -9,3 +9,8 @@ A arquitetura usa coreografia orientada a eventos:
 5. Em falhas, publica-se `order-failed` (DLQ funcional).
 
 Esse desenho permite desacoplamento entre dominios e demonstracao clara de consistencia eventual.
+
+[Voltar para o Sumário](SUMMARY.md)
+
+[Anterior: Setup do Projeto](00-setup.md)
+[Próximo: Fluxo Kafka e E-commerce](02-fluxo-kafka-ecommerce.md)

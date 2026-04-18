@@ -16,3 +16,8 @@ Se o console nao abrir:
 
 - confirme que o servico subiu sem erro de Liquibase;
 - confirme que a URL JDBC corresponde ao servico correto.
+
+[Voltar para o Sumário](SUMMARY.md)
+
+[Anterior: Fluxo Kafka e E-commerce](02-fluxo-kafka-ecommerce.md)
+[Próximo: Resiliência com Resilience4j](04-resiliencia-resilience4j.md)

@@ -23,3 +23,8 @@ Kafka permite separar etapas do checkout sem acoplamento temporal.
 ## Exemplo com falha de pagamento
 
 `order-created -> inventory-reserved -> order-failed`
+
+[Voltar para o Sumário](SUMMARY.md)
+
+[Anterior: Arquitetura](01-arquitetura.md)
+[Próximo: Banco de Dados com Liquibase e H2](03-banco-liquibase-h2.md)

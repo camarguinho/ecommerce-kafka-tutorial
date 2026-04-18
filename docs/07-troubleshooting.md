@@ -46,3 +46,8 @@ Acao:
 - aguardar janela de recuperacao configurada;
 - reduzir taxa de erro simulada;
 - revisar logs de causa raiz.
+
+[Voltar para o Sumário](SUMMARY.md)
+
+[Anterior: Docker Compose e Kafdrop](06-docker-compose-kafdrop.md)
+[Próximo: Boas Práticas com Kafka](08-boas-praticas-kafka.md)
