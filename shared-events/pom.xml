@@ -12,6 +12,7 @@
     </parent>
 
     <artifactId>shared-events</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
     <name>shared-events</name>
 
     <dependencies>

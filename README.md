@@ -25,6 +25,9 @@ Para resetar volumes/estado de broker:
 - `docker compose down -v`
 
 ## Executando os servicos
+Buildar o projeto e instalar no repositório local .m2:
+
+1. `mvn clean package install`
 
 Em terminais separados:
 
